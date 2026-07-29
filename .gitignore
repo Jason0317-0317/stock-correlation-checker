@@ -1,4 +1,9 @@
 .venv/
+.build-venv/
+.pack-venv/
 __pycache__/
 .streamlit/
 *.pyc
+build/
+dist/
+*.spec
